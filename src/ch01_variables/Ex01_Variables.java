@@ -7,7 +7,7 @@ public class Ex01_Variables {
 		String num1 = "남정욱";
 		int num2 = 30;
 		double num3 = 177.3;
-				String num4 = "인천 광역시 부평구 평천로 142번길17";
+				String num4 = "인천 광역시 부평구 xxxxx xxxxxx";
 				String num5 = "010 1234 5678";
 				
 				
