@@ -10,6 +10,11 @@ public class Ex01_Variables {
 				String num4 = "인천 광역시 부평구 xxxxx xxxxxx";
 				String num5 = "010 1234 5678";
 				
+				//변수값 출력
+				
+				System.out.println(num1);
+				System.out.println("num1");
+				System.out.println("저의 이름은" + num1 + "입니다");
 				
 	}
 
